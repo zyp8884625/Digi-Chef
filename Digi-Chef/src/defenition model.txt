@@ -1,0 +1,5 @@
+name			(String)
+def				(String)
+varieties		(String) (NULL if one)
+equivalence		(String) (NULL if unavailable)
+category		(enum)

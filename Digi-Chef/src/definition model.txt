@@ -1,0 +1,6 @@
+name			(String)
+definition		(String)
+varieties		(String) (NULL if one)
+equivalence		(String) (NULL if unavailable)
+category		(enum)
+imageSearch		(String)

@@ -1,0 +1,15 @@
+name					(String)(one line)
+description				(String)(all on one line)
+numIngredients			(int)
+
+ingredient.name			(String)(repeat all three lines of each ingredient)
+ingredient.quantity		(double)
+ingredient.units		(UnitType)(enum)
+
+numInstructions			(int)
+instruction  			(String)(1 per line no #s)
+isFavorite				(Boolean)
+numServings				(int)
+prepTime				(double)(NULL if unavailable)
+cookTime				(double)(Null if unavailable)
+category				(Category)(enum)
